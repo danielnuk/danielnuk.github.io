@@ -4,12 +4,11 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-### Sample Portfolio
+### Storm Chase Favourites
 
-These are screencaps from Chungking Express
+2012-2022
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/images/sample_portfolio/1.jpg)
-![Chungking Express Screencap 2]({{site.baseurl}}/assets/images/sample_portfolio/2.jpg)
-![Chungking Express Screencap 3]({{site.baseurl}}/assets/images/sample_portfolio/3.jpg)
-![Chungking Express Screencap 4]({{site.baseurl}}/assets/images/sample_portfolio/4.jpg)
-![Chungking Express Screencap 5]({{site.baseurl}}/assets/images/sample_portfolio/5.jpg)
+![Nebraska 2013]({{site.baseurl}}/assets/images/portfolio/nebraska_2013.jpg)
+![Kansas 2014]({{site.baseurl}}/assets/images/portfolio/kansas_2014.jpg)
+![Oklahoma 2022]({{site.baseurl}}/assets/images/portfolio/oklahoma_2022.jpg)
+
