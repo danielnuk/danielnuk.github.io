@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Dan. I like photography, thunderstorms, listening to the blues and horror films.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Taller than your average human.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hello@danieln.uk](mailto:hello@danieln.uk)
