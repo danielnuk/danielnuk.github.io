@@ -2,5 +2,7 @@
   link: /
 - name: About
   link: /about/
-- name: Portfolio
+- name: Film
+  link: /film/
+- name: Storms
   link: /portfolio/
