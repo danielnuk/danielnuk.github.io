@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No storms after a week of heat
+title: No storms, again
 ---
 ## September 12 2023
 <p>No actual storms but a yellow tinted shower just before sunset.</p>
