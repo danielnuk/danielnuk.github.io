@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first Aurora
+title: Some Weak Showers
 ---
 ## September 21 2023
 <p>Some more weak showers which looked marginally photogenic for a short time.</p>
