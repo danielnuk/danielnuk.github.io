@@ -21,7 +21,7 @@ tagline: Film & Digital Photography
 description: A home for my photography
 
 # The full URL to your site. Note: site.github.url will be used by default.
-url:
+url: https://danieln.uk
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -42,12 +42,12 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: hello@danieln.uk
+  email: 
   facebook:
-  github: danielnuk/brutalist-blog
+  github:
   instagram:
   linkedin:
-  rss: rss
+  rss:
   twitter:
 
 plugins:
