@@ -12,4 +12,3 @@ Taller than your average human.
 
 ### Contact me
 
-hello at danieln.uk
