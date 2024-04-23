@@ -15,3 +15,4 @@ permalink: /portfolio/
 ![Oklahoma 2012]({{site.baseurl}}/assets/images/portfolio/oklahoma_2012.jpg)
 ![USA 2022 1]({{site.baseurl}}/assets/images/portfolio/usa_2022_1.jpg)
 ![Oklahoma_2013]({{site.baseurl}}/assets/images/portfolio/oklahoma_2013.jpg)
+![Nebraska 2013 2]({{site.baseurl}}/assets/images/portfolio/nebraska_2013_2.jpg)
