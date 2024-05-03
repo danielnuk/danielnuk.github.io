@@ -16,4 +16,4 @@ Olympus OM-D EM1 III
 Olympus 12-45mm F4 Pro
 
 ### Contact me
-
+<p>If you want to get in touch, please drop me an email at <span class="blockspam" aria-hidden="true">PLEASE GO AWAY!</span> hello@<!-- sdfjsdhfkjypcs -->danieln.uk</p>.
