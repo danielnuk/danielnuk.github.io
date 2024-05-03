@@ -10,5 +10,9 @@ Hi, I'm Dan. I like photography, thunderstorms, listening to the blues and horro
 
 Taller than your average human.
 
+### My Gear
+Olympus OM-D EM1 III
+Olympus 12-45mm F4 Pro
+
 ### Contact me
 
