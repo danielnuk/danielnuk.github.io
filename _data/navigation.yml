@@ -1,8 +1,8 @@
 - name: Home
   link: /
+  - name: Storms
+  link: /portfolio/
 - name: Film
   link: /film/
-- name: Storms
-  link: /portfolio/
 - name: About
   link: /about/
