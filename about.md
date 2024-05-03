@@ -12,6 +12,7 @@ Taller than your average human.
 
 ### My Gear
 Olympus OM-D EM1 III
+<br>
 Olympus 12-45mm F4 Pro
 
 ### Contact me
