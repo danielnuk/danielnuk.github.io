@@ -17,4 +17,4 @@ Olympus 12-45mm F4 Pro
 
 ### Contact me
 <p>If you want to get in touch, please drop me an email at:</p>
-<img src="/assets/images/addy.png" alt="email me">
+<img src="/assets/images/addy.png" alt="email me" height=35 width=175>
