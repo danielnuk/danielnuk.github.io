@@ -3,6 +3,7 @@ layout: post
 title: A night to remember
 ---
 <p>An all night Aurora show, that was at times visible with the naked eye. Possibly the best display I'll ever see at home.</p>
+<p>Camera: Olympus OM-D EM1iii & Olympus 12mm F2</p>
 <img src="/assets/images/blog/aurora_may11_2024_1.jpg" alt="A night to remember 1">
 <br><br>
 <img src="/assets/images/blog/aurora_may11_2024_2.jpg" alt="A night to remember 2">
