@@ -14,6 +14,8 @@ Taller than your average human.
 Olympus OM-D EM1 III
 <br>
 Olympus 12-45mm F4 Pro
+<br>
+Olympus 12mm F2
 
 ### Contact me
 <p>If you want to get in touch, please drop me an email at:</p>
