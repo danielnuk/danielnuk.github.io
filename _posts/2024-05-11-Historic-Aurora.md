@@ -7,4 +7,6 @@ title: A night to remember
 <br><br>
 <img src="/assets/images/blog/aurora_may11_2024_2.jpg" alt="A night to remember 2">
 <br><br>
+<img src="/assets/images/blog/aurora_may11_2024_4.jpg" alt="A night to remember 2">
+<br><br>
 <img src="/assets/images/blog/aurora_may11_2024_3.jpg" alt="A night to remember 3">
