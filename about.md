@@ -11,11 +11,9 @@ Hi, I'm Dan. I like photography, thunderstorms, listening to the blues and horro
 Taller than your average human.
 
 ### My Gear
-Olympus OM-D EM1 III
+Sony A7 III
 <br>
-Olympus 17mm f1.2 Pro
-<br>
-Olympus 12-100mm f4 Pro
+Sony 20mm f1.8
 
 ### Contact me
 <p>If you want to get in touch, please drop me an email at:</p>
