@@ -14,6 +14,8 @@ Taller than your average human.
 Sony A7 III
 <br>
 Sony 20mm f1.8
+<br>
+Sony 40mm f2.5
 
 ### Contact me
 <p>If you want to get in touch, please drop me an email at:</p>
